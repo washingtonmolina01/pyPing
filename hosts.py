@@ -1,5 +1,6 @@
 '''
-This program is basic ping funtion to ping your Nodes
+This program is basic ping function to ping your Nodes.
+I used the icmplib
 please refer to https://pypi.org/project/icmplib for information on the library
 For istallation of the library
     sudo pip3 install icmplib
